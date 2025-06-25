@@ -2,13 +2,13 @@
 
 ## 📅 Project Timeline Overview
 
-**Total Duration:** 16 weeks (4 months)  
-**Start Date:** January 2025  
-**Target Launch:** May 2025
+**Total Duration:** 4 weeks (1 month )  
+**Start Date:** july 2025  
+**Target Launch:** august 2025
 
 ---
 
-## 🚀 Phase 1: Foundation & Core System (Weeks 1-4)
+## 🚀 Phase 1: Foundation & Core System 1 wk
 
 ### Week 1-2: Infrastructure Setup
 - ✅ **COMPLETED**: Project structure and documentation
@@ -32,7 +32,7 @@
 
 ---
 
-## 🧠 Phase 2: AI & Machine Learning (Weeks 5-8)
+## 🧠 Phase 2: AI & Machine Learning 2nd wk
 
 ### Week 5-6: Person Identification Engine
 - 📋 **PENDING**: Facial recognition model integration
@@ -54,7 +54,7 @@
 
 ---
 
-## 📱 Phase 3: Mobile & Web Applications (Weeks 9-12)
+## 📱 Phase 3: Mobile & Web Applications 3rd wk
 
 ### Week 9-10: Web Application Enhancement
 - 📋 **PENDING**: React.js frontend development
@@ -76,7 +76,7 @@
 
 ---
 
-## 🔮 Phase 4: Advanced Features & Deployment (Weeks 13-16)
+## 🔮 Phase 4: Advanced Features & Deployment 4th wk
 
 ### Week 13-14: Predictive Analytics
 - 📋 **PENDING**: Accident prediction models
@@ -102,11 +102,11 @@
 
 | Milestone | Target Date | Status |
 |-----------|-------------|--------|
-| **Demo System** | Week 2 | ✅ **COMPLETED** |
-| **Core Pipeline** | Week 4 | 🔄 **IN PROGRESS** |
-| **AI Integration** | Week 8 | 📋 **PENDING** |
-| **Mobile Apps** | Week 12 | 📋 **PENDING** |
-| **Production Launch** | Week 16 | 📋 **PENDING** |
+| **Demo System** | 4 hrs | ✅ **COMPLETED** |
+| **Core Pipeline** |  | 🔄 **IN PROGRESS** |
+| **AI Integration** | Week 2 | 📋 **PENDING** |
+| **Mobile Apps** | Week 3 | 📋 **PENDING** |
+| **Production Launch** | Week 4 | 📋 **PENDING** |
 
 ---
 
@@ -175,8 +175,8 @@
 
 ## 📞 Contact & Updates
 
-**Project Lead**: [Your Name]  
-**Last Updated**: January 2025  
+**Project Lead**: [Valentine Chideme]  
+**Last Updated**: june 2025  
 **Next Review**: Weekly (Mondays)
 
 **GitHub Repository**: [To be added after GitHub setup]  
